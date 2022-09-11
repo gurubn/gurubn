@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Gurudatt Bhat
-- 🔭 I’m currently working as M365 Solutions architect at Sogeti, have 10+ years of IT experience playing various roles like developer, Consultant and solution architect.
+- 🔭 I’m currently working as M365/SharePoint Solutions architect at Sogeti, have 10+ years of IT experience playing various roles like developer, Consultant and solution architect.
 - 🌱 I’m currently learning Kubernetes and Microservice architecture in general, deep diving into Azure development and architecture.
 - 💬 Ask me about SharePoint (Onpremise/Online), Office 365 development
 <!--
